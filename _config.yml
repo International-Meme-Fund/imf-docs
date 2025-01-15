@@ -1,8 +1,31 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: IMF
+
+logo: "/assets/images/logo.png"
+description: International Meme Fund (IMF) lends you stablecoins against almost any crypto.
+url: "https://docs.imf.bz"
+
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
-
+url: 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  International Meme Fund on GitHub: https://github.com/International-Meme-Fund/imf-docs
+aux_links_new_tab: true
+
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+
+nav_external_links:
+  - title: App
+    url: https://app.imf.bz
+    
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: 'Copyright &copy; 2024-2025 International Meme Fund.'
+
+ga_tracking: G-QV11R5T97S
+ga_tracking_anonymize_ip: true 
