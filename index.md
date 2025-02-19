@@ -12,7 +12,7 @@ permalink: /
 International Meme Fund (IMF) is crypto’s first credit union – built for every community and open to all assets. DeFi for everyone.
 {: .fs-6 .fw-300 }
 
-[Get started](https://internationalmeme.fund){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
+[Get started](https://app.imf.bz){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
 [Learn more](#introduction){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
