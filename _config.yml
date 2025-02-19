@@ -1,14 +1,15 @@
 title: IMF
 
 logo: "/assets/images/logo.png"
-description: International Meme Fund (IMF) lends you stablecoins against almost any crypto.
+description: International Meme Fund (IMF) is crypto’s first credit union—built for the community, open to all assets.
 url: "https://docs.imf.bz"
 
 theme: just-the-docs
+color_scheme: codered # Color scheme supports "light" (default) and "dark"
 
 url: 
 aux_links:
-  International Meme Fund on GitHub: https://github.com/International-Meme-Fund/imf-docs
+  IMF on GitHub: https://github.com/International-Meme-Fund/imf-docs
 aux_links_new_tab: true
 
 defaults:
@@ -19,8 +20,8 @@ defaults:
       layout: "default"
 
 nav_external_links:
-  - title: App
-    url: https://app.imf.bz
+  - title: App v2.0.0
+    url: https://internationalmeme.fund
     
 back_to_top: true
 back_to_top_text: "Back to top"

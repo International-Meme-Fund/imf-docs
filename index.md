@@ -1,26 +1,34 @@
 ---
-title: Home
+title: Introduction
 layout: home
 nav_order: 1
-description: "International Meme Fund (IMF) lends you stablecoins against almost any crypto."
+description: "International Meme Fund (IMF) is crypto’s first credit union – built for every community, open to all assets."
 permalink: /
 ---
 
-# IMF - NEVER SELL ™
+# Bank the Unbankable ™
 {: .fs-9 }
 
-International Meme Fund (IMF) lends you stablecoins against almost any crypto. Why sell your coins when you can borrow? Debt before dishonor.
+International Meme Fund (IMF) is crypto’s first credit union – built for every community and open to all assets. DeFi for everyone.
 {: .fs-6 .fw-300 }
 
-[Get credit](https://app.imf.bz){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Learn more](/docs/introduction){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started](https://internationalmeme.fund){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
+[Learn more](#introduction){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-IMF is crypto's lender of last resort, a DeFi protocol that lends users stablecoins against almost any collateral. The IMF loan facility unlocks liquidity for the longtail of assets overlooked by the likes of Maker protocol with their DAI stablecoin. IMF also promotes debt accelerationism (debt/acc) by actively encouraging market participants to open lines of credit using the IMF protocol.
+IMF is crypto's lender of last resort, a DeFi protocol that lends users stablecoins against almost any collateral. Inspired by credit unions and building societies (member-owned banks) who serve millions of people banks ignore, our protocol incentivizes the pooling of assets to unlock community credit. 
 
-Browse the docs to learn more about the using the protocol and how it works.
+Browse to learn more and [join us on Telegram](https://t.me/intlmemefund){: target="_blank" } if you have any questions.
 
-## Getting started
+## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Borrowing against long-tail crypto assets is nearly impossible today. While blue-chip tokens (e.g., ETH) enjoy robust borrowing markets, less popular assets rarely find reliable liquidity. This isn't the case in traditional markets, where one can generally borrow against any 'low cap shidder' in their brokerage account.
+
+Even with the emergence of permissionless borrow/lend protocols like Morpho and Euler, where, ostensibly anyone can create a market - it's rare to see deep liquidity in anything but blue chip assets. Clearly, the ability to create these markets isn't the problem, attracting deep lender liquidity is.
+
+The IMF solves this by creating positive-sum incentives for pooling any collateral, as a community, removing the dependency on external stablecoin liquidity providers.
+
+This cannot be done at scale with governance. We can see this play out with Aave etc where the incentives are such to be extremely risk averse as to the approved assets. We don't see this play out in Uniswap principally because it's permissionless and credibly neutral. In order to effectively serve the long tail of assets, we too need a credibly neutral game theoretic/market driven approach to decide both eligible collateral and stablecoin borrow/mint limits per collateral type.
+
+This documentation explains our approach and the implications for the stablecoin market. We believe our approach is a true 0 to 1 DeFi building block.
