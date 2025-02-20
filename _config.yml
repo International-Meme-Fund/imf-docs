@@ -21,7 +21,8 @@ defaults:
 
 nav_external_links:
   - title: App v2.0.0
-    url: https://internationalmeme.fund
+    url: https://app.imf.bz
+    opens_in_new_tab: true
     
 back_to_top: true
 back_to_top_text: "Back to top"
