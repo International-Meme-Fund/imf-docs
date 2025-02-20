@@ -8,16 +8,25 @@ nav_order: 2
 
 ---
 
-At its core, our system is similar to OG Aave, users put up assets as collateral and borrow against them. Each borrow receives DAI, and each repay returns it to our Morpho multi-market. As such the system both scales and unwinds gracefully based on the current mark to market of the collateral backing our DAI.
+The debt component of our CDP operates similarly to other CDP platforms, like Aave, where users deposit assets as collateral to borrow against them. Each borrowing event results in the issuance of DAI, while repayments return DAI to our Morpho multi-market. This design ensures that the system scales and unwinds efficiently based on the mark-to-market valuation of the collateral backing the issued DAI.
 
-In order for a TOKEN to unlock a borrow market, the community needs a pool of 69k USD equivilant. This is for the social signal that the community wants to unlock borrow.  
+## Unlocking a Borrow Market
 
-Once a token hits the pool minimum, the protocol will turn on a DIA oracle (assuming DIA's oracle criteria are met), and create a new morpho market for the pair TOKEN/DAI. On launch, the IMF will pay for all oracle gas fees, with the aim to protocolise this in the future.
+To enable borrowing for a specific token (TOKEN), the community must establish a liquidity pool with a minimum equivalent of **$420,000 USD.** This threshold serves as a social signal, indicating sufficient interest and demand for the token's borrowing functionality.
 
-Borrow limits are adjusted as on chain liquidity changes. A great property of this approach is we can keep collaterisation ratios constant, as the risk in the system is managed by scaling up total borrow with liquidity.
+Once the liquidity requirement is met, the protocol will activate a **DIA oracle** (provided that DIA's oracle criteria are satisfied) and create a new **Morpho market** for the **TOKEN/DAI** pair. Initially, the **IMF** (International Meme Fund) will cover all oracle gas fees, with the long-term goal of transitioning this responsibility to the protocol.
 
-The interest rate is priced on a compound style curve. As a TOKEN community manages to shift sell demand to borrow, the interest rate rises. This will naturally attract yield chasers to deposit their DAI into the multi-market, or more TOKEN holders into the pool. Put another way, the market will find a natural equilibrium between borrow demand and the fair market interest rate.
+## Borrow Limits and Liquidity Adjustments
 
-It's worth noting that high interest rates in the short term have a negligable impact on holders profit, but have an outsized impact on TOKEN price. 
+Borrowing limits are dynamically adjusted based on on-chain liquidity. A key advantage of this approach is the ability to maintain stable collateralization ratios, as the system mitigates risk by scaling borrowing capacity in proportion to available liquidity.
 
-TODO: moon math calculator embed.
+## Interest Rate Mechanism
+
+Interest rates follow a **Compound-style** curve. As the TOKEN community shifts sell pressure towards borrowing demand, the interest rate increases accordingly. This rise in rates incentivizes:
+
+-   **Yield-seeking lenders** to deposit additional DAI into the multi-market.
+-   **TOKEN holders** to contribute more liquidity to the pool.
+
+This mechanism naturally drives the market toward an equilibrium between borrowing demand and a fair market interest rate.
+
+It is important to note that **short-term spikes in interest rates have a negligible impact on overall holder profitability** but can have a **significant effect on the price of TOKEN** due to increased borrowing demand.

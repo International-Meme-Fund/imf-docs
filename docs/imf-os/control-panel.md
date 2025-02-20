@@ -11,10 +11,12 @@ Advanced user interface for interacting directly with the protocol.
 
 ---
 
-*Work in progress...*
+*Work in progress (v1 pictured)...*
 
-Products:
+![](/assets/images/control-panel-v1.jpg)
 
-- Loans
+IMF v2 interfacing:
+
 - Pools
+- Loans
 - Yield
