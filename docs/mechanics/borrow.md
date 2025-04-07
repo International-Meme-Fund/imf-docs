@@ -11,7 +11,7 @@ IMF Borrow lets token holders unlock stable liquidity without selling.
 
 ---
 
-By posting a token as collateral, users can borrow [USDS](https://sky.money) directly from an **isolated onchain market**. Everything is secured, immutable, and non-custodial. Powered by [Morpho Blue](https://morpho.org).
+By posting a token as collateral, users can borrow [USDS](https://sky.money){: target="_blank"} directly from an **isolated onchain market**. Everything is secured, immutable, and non-custodial. Powered by [Morpho Blue](https://morpho.org){: target="_blank"}.
 
 This is not leverage for the sake of leverage. This is **credit with purpose.** Credit that lets you act without exiting your position.
 

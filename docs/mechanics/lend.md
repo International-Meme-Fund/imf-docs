@@ -11,7 +11,7 @@ IMF Lend is where USDS earns yield.
 
 ---
 
-Lenders deposit [USDS](https://sky.money) into isolated credit markets and earn interest paid by borrowers. It’s **onchain**, **permissionless**, and **liquid.** Powered by [Morpho Blue](https://morpho.org), with all risk fully contained.
+Lenders deposit [USDS](https://sky.money){: target="_blank"} into isolated credit markets and earn interest paid by borrowers. It’s **onchain**, **permissionless**, and **liquid.** Powered by [Morpho Blue](https://morpho.org){: target="_blank"}, with all risk fully contained.
 
 There are no emissions. No gimmicks. Just **real demand meeting real supply**.
 

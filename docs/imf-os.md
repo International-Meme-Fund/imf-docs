@@ -12,7 +12,7 @@ IMF OS is the operating system for onchain credit.
 
 It looks like a desktop. Feels like an app launcher. And gives you direct access to every part of the IMF protocol.
 
-**[IMF OS](https://app.imf.bz) gives you the tools to coordinate around credit.**
+**[IMF OS](https://app.imf.bz){: target="_blank"} gives you the tools to coordinate around credit.**
 
 ## Modules
 

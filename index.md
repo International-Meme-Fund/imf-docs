@@ -13,7 +13,7 @@ IMF Credit is a credit cartel: a crypto-native credit union that unleashes the p
 {: .fs-6 .fw-300 }
 
 [Get started](https://app.imf.bz){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
-[Learn more](https://imf.bz){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Learn more](https://imf.bz){: .btn .fs-5 .mb-4 .mb-md-0 target="_blank" }
 
 ---
 
@@ -29,6 +29,6 @@ With IMF:
 - Lenders **earn yield** on stablecoin deposits
 - Communities **coordinate price action** with skin in the game
 
-Built on [Uniswap](https://uniswap.org), [Morpho](https://morpho.org), and [USDS](https://sky.money), IMF is permissionless, immutable, and battle-tested from day one.
+Built on [Uniswap](https://uniswap.org){: target="_blank"}, [Morpho](https://morpho.org){: target="_blank"}, and [USDS](https://sky.money){: target="_blank"}, IMF is permissionless, immutable, and battle-tested from day one.
 
 **Credit is a weapon. IMF helps you wield it.**

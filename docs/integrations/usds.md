@@ -13,7 +13,7 @@ USDS is the stablecoin that powers IMF.
 
 Every Pool is paired with USDS. Every Borrow and Lend market uses USDS. It’s the stable layer that makes IMF **liquid**, **composable**, and **usable**.
 
-USDS is issued by [Sky](https://sky.money), the protocol formerly known as Maker DAO, creators of DAI and pioneers of onchain stablecoin systems.
+USDS is issued by [Sky](https://sky.money){: target="_blank"}, the protocol formerly known as Maker DAO, creators of DAI and pioneers of onchain stablecoin systems.
 
 ### Why USDS?
 

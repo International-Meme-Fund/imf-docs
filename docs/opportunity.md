@@ -37,7 +37,7 @@ IMF introduces **Community Coordinated Credit:** an onchain system where holders
 
 With IMF:
 
-- Borrowers post token collateral to access [USDS](https://sky.money)  
+- Borrowers post token collateral to access [USDS](https://sky.money){: target="_blank"}  
 - That USDS funds builders, memes and market activity, without dumping  
 - Lenders earn yield from that usage  
 - The token gains liquidity, attention, and belief  

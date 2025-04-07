@@ -16,8 +16,8 @@ This modular design makes IMF more secure, more composable, and more future-proo
 
 ### Powered By
 
-- [Uniswap v3](https://docs.uniswap.org/contracts/v3/overview) - Concentrated liquidity that fuels IMF Pool  
-- [Morpho Blue](https://morpho.org) - Isolated lending infrastructure for Borrow and Lend  
-- [USDS by Sky](https://sky.money) - A stablecoin optimised for DeFi and Layer 2 ecosystems
+- [Uniswap v3](https://docs.uniswap.org/contracts/v3/overview){: target="_blank"} - Concentrated liquidity that fuels IMF Pool  
+- [Morpho Blue](https://morpho.org){: target="_blank"} - Isolated lending infrastructure for Borrow and Lend  
+- [USDS by Sky](https://sky.money){: target="_blank"} - A stablecoin optimised for DeFi and Layer 2 ecosystems
 
 Each integration plays a specific role. Together, they form the backbone of a protocol built for **resilience,** and ready for scale.

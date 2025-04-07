@@ -12,8 +12,8 @@ IMF Credit unlocks credit using any token as collateral.
 
 It works by coordinating three simple mechanisms:
 
-- **Pool** - Where tokens are deposited into protocol-optimised [Uniswap v3](https://docs.uniswap.org/contracts/v3/overview) liquidity positions  
-- **Borrow** - Where holders borrow [USDS](https://sky.money) against their token collateral  
+- **Pool** - Where tokens are deposited into protocol-optimised [Uniswap v3](https://docs.uniswap.org/contracts/v3/overview){: target="_blank"} liquidity positions  
+- **Borrow** - Where holders borrow [USDS](https://sky.money){: target="_blank"} against their token collateral  
 - **Lend** - Where lenders deposit USDS to earn yield from borrower demand
 
 Each token has its own market. Each market is isolated. Every loop is **onchain**, **immutable**, and **transparent**.

@@ -11,7 +11,7 @@ IMF Pool is where tokens become productive.
 
 ---
 
-When a token is deposited into Pool, it’s paired with [USDS](https://sky.money) in a **protocol-optimised** [Uniswap v3](https://docs.uniswap.org/contracts/v3/overview) liquidity position. This isn’t a farm. It’s **structured liquidity,** designed to generate real fees and enable lending.
+When a token is deposited into Pool, it’s paired with [USDS](https://sky.money){: target="_blank"} in a **protocol-optimised** [Uniswap v3](https://docs.uniswap.org/contracts/v3/overview){: target="_blank"} liquidity position. This isn’t a farm. It’s **structured liquidity,** designed to generate real fees and enable lending.
 
 ## How It Works
 
