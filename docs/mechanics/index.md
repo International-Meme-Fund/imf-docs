@@ -3,16 +3,38 @@ title: Mechanics
 nav_order: 3
 ---
 
-# Mechanics
+# How It Works
 
-Borrowing for any token and community-driven pooling.
+IMF Credit unlocks credit using any token as collateral.
 {: .fs-6 .fw-300 }
 
 ---
 
-Our protocol introduces a novel mechanism that enables **borrowing for any token,** unlocking lending markets for assets that traditionally lack deep liquidity. This is achieved through a **community-driven pooling system,** allowing token communities to establish their own borrow markets in a sustainable and efficient manner.
+It works by coordinating three simple mechanisms:
 
-The system consists of two primary components:
+- **Pool** - Where tokens are deposited into protocol-optimised [Uniswap v3](https://docs.uniswap.org/contracts/v3/overview) liquidity positions  
+- **Borrow** - Where holders borrow [USDS](https://sky.money) against their token collateral  
+- **Lend** - Where lenders deposit USDS to earn yield from borrower demand
 
--   Pool provision, which creates a managed UniV3 LP position between TOKEN and DAI and deposits DAI into the Morpho pool.
--   Collateralised Debt Module, which allows borrow of DAI using TOKEN as collateral.
+Each token has its own market. Each market is isolated. Every loop is **onchain**, **immutable**, and **transparent**.
+
+## The Flywheel
+
+1. Tokens are deposited into the **IMF Pool**
+2. The Pool earns LP fees and streams USDS into the lending side
+3. Borrowers post collateral and draw USDS from the market
+4. Lenders earn interest from borrowers
+5. Borrowed USDS often flows back into the token, creating coordinated price action
+6. The cycle repeats, building attention, conviction, and value
+
+## The Outcome
+
+This is **not leverage for degens**. This is **credit infrastructure for the long tail**. The system works because incentives are aligned:
+
+- Borrowers want their token to grow - so they repay
+- Lenders want their yield - so they support real demand
+- Communities want coordination - and now they have the tools to do it
+
+It’s how a token becomes **creditworthy**. Not through hype. But through shared belief, onchain rails, and the ability to fund itself.
+
+**No permission. No dilution. Just credit, unleashed.**

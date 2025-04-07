@@ -1,16 +1,17 @@
 ---
 title: Contracts
-nav_order: 4
+nav_order: 7
 ---
 
 # Contracts
 
-Work in progress (WIP) v2 contracts being audited.
+Built for Ethereum mainnet and L2 ecosystems. 
 {: .fs-6 .fw-300 }
 
 ---
 
-All v2 contracts will be listed and linked to upon deployment:
+Publishing V2 contracts soon
+{: .label .label-yellow }
 
 ## Token Contracts
 
