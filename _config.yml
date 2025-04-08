@@ -20,6 +20,9 @@ defaults:
       layout: "default"
 
 nav_external_links:
+  - title: Price impact calculator
+    url: https://calc.imf.bz
+    opens_in_new_tab: true
   - title: App v2.0.0
     url: https://app.imf.bz
     opens_in_new_tab: true
