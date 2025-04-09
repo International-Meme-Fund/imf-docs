@@ -10,9 +10,23 @@ Built for Ethereum mainnet and L2 ecosystems.
 
 ---
 
-## IMF Token 
-Deployed
-{: .label .label-green }
+## Tokens
+
+### Collateral
+
+Borrow
+{: .label .label-purple }
+
+- MOG: `0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a`
+
+### Credit
+
+Lend
+{: .label .label-blue }
+
+- USDS: `0xdC035D45d973E3EC169d2276DDab16f1e407384F`
+
+### IMF Token
 
 - Ethereum mainnet: `0x05BE1d4c307C19450A6Fd7cE7307cE72a3829A60`
 - Base L2 (bridge): `0x5C5B1DE218f86f00Fa547ac4f70DA2C39BB8A039`
@@ -20,8 +34,15 @@ Deployed
 
 ## V2 Protocol 
 
-Coming soon
-{: .label .label-yellow }
+Deployed
+{: .label .label-green }
+
+- Morpho Market: `0xBBBBBbbBBb9cC5e90e3b3Af64bdAF62C37EEFFCb`
+- Morpho IRM: `0x870aC11D48B15DB9a138Cf899d20F13F79Ba00BC`
+- IMF-USDS: `0xdef1Fce2df6270Fdf7E1214343BeBbaB8583D43d`
+- MOG Oracle: `0xa022aDB8C6bD4c25325A662cB928570a8e3966b4`
+
+
 
 ## V1 Protocol 
 
