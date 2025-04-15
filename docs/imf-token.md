@@ -43,7 +43,7 @@ IMF raised 269 ETH on [Party](https://www.party.app/party/0xaaFE7aeE7da5dB8DD4a2
  |:---|:---|:---|:---|
  | Treasury | 40.46% | 13,351,500 | Protocol rewards, builder grants and pool provision |
  | Distributed | 39.15% | 12,920,250 | Includes initial 20% public presale distribution |
- | [Team vesting](https://app.hedgey.finance/vesting/issuer/ethereum/0x05be1d4c307c19450a6fd7ce7307ce72a3829a60){: target="_blank"}  | 11.81% | 3,898,500 | Vesting plans managed with Hedgey finance |
+ | [Team vesting](https://app.hedgey.finance/vesting/recipient/ethereum/0x05be1d4c307c19450a6fd7ce7307ce72a3829a60){: target="_blank"}  | 11.81% | 3,898,500 | Vesting plans managed with Hedgey finance |
  | Uniswap V3 | 5.48% | 1,807,800 | Full range and targeted liquidity positions |
  | Additional LP | 3.10% | 1,021,950 | Imminent full range position bolstering |
  | ***TOTALS*** | ***100%*** | ***33,000,000*** | ***Upcoming 1,500,000 token burn*** |
