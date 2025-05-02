@@ -37,15 +37,17 @@ Ownership is not theoretical. It’s **economic and executable**. If the protoco
 
 ## Public Sale
 
-IMF raised 269 ETH on [Party](https://www.party.app/party/0xaaFE7aeE7da5dB8DD4a2D6a3e43F576876E6452E){: target="_blank"} by selling 20% of supply (originally 10% prior to burning 50% of tokens) to fund development and bootstrap protocol liquidity.
+IMF raised 269 ETH on [Party](https://www.party.app/party/0xaaFE7aeE7da5dB8DD4a2D6a3e43F576876E6452E){: target="_blank"} by selling 21% of supply (originally 10% prior to burning 52% of tokens) to fund development and bootstrap protocol liquidity.
  
  | Category | Share | Allocation | Description |
  |:---|:---|:---|:---|
- | Treasury | 40.46% | 13,351,500 | Protocol rewards, builder grants and pool provision |
- | Distributed | 39.15% | 12,920,250 | Includes initial 20% public presale distribution |
- | [Team vesting](https://app.hedgey.finance/vesting/recipient/ethereum/0x05be1d4c307c19450a6fd7ce7307ce72a3829a60){: target="_blank"}  | 11.81% | 3,898,500 | Vesting plans managed with Hedgey finance |
- | Uniswap V3 | 5.48% | 1,807,800 | Full range and targeted liquidity positions |
- | Additional LP | 3.10% | 1,021,950 | Imminent full range position bolstering |
- | ***TOTALS*** | ***100%*** | ***33,000,000*** | ***Upcoming 1,500,000 token burn*** |
+ | Investors | 20.91% | 6,900,000 | Initial public presale distribution |
+ | Treasury | 20.00% | 6,600,000 | Protocol growth and IMF ecosystem support |
+ | Lenders | 20.00% | 6,600,000 | Rewards USDS lenders for supplying market |
+ | Liquidity | 10.25% | 3,382,004 | Various liquidity positions deployed to AMMs |
+ | Borrowers | 10.00% | 3,300,000 | Rewards MOG depositors for USDS borrows |
+ | Airdrops | 10.00% | 3,300,000 | Community contribution retroactive rewards |
+ | [Team vesting](https://etherscan.io/token/0x05BE1d4c307C19450A6Fd7cE7307cE72a3829A60?a=0x2cde9919e81b20b4b33dd562a48a84b54c48f00c){: target="_blank"}  | 8.84% | 2,917,996 | Vesting plans managed via Hedgey finance |
+ | ***TOTAL*** | ***100%*** | ***33,000,000*** | Maximum total supply (non-mintable) |
  
 Ethereum token contract: `0x05BE1d4c307C19450A6Fd7cE7307cE72a3829A60`
