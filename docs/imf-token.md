@@ -10,9 +10,7 @@ nav_order: 5
 
 ---
 
-It doesn’t control governance. It doesn’t issue emissions. It doesn’t vote on parameters.
-
-Instead, it represents **economic ownership**. If someone wants to control IMF, they have to acquire the token, transparently, onchain.
+$IMF is the key to cartel coordination, and is central to our **economic ownership** model.  
 
 This model is powered by [Salutary](https://salutary.io){: target="_blank"}, a standard for building tokens with **credible ownership dynamics** and onchain acquisition logic.
 
@@ -22,6 +20,7 @@ This model is powered by [Salutary](https://salutary.io){: target="_blank"}, a s
 - Revenue accrues to the protocol’s treasury  
 - Anyone who holds **51% of $IMF** controls the protocol  
 - There are **no votes** and **no dilution mechanisms**
+- Although there is governance-lite utility
 
 Ownership is not theoretical. It’s **economic and executable**. If the protocol becomes valuable, so does the token.
 
