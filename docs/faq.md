@@ -8,6 +8,9 @@ nav_order: 8
 Frequently Asked Questions
 {: .fs-6 .fw-300 }
 
+[Launch app](https://app.imf.bz){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
+[Get in touch](https://imf.bz){: .btn .fs-5 .mb-4 .mb-md-0 target="_blank" }
+
 ---
 
 ## What is IMF?
@@ -16,11 +19,11 @@ Frequently Asked Questions
 
 ## What does IMF stand for?
 
-It originally stood for “International Meme Fund” but today, it’s simply **IMF**: a **credit cartel** for onchain coordination.
+It stands for “International Meme Fund” or, it’s simply **IMF**: a **credit cartel** for community credit coordination.
 
 ## What makes IMF different?
 
-We unlock credit for the long tail. Not just blue chips. No governance theatre. No emissions. Just real tools for token communities to coordinate growth and access stable liquidity.
+We unlock credit for the long tail. Not just blue chips. No governance theatre. Just real tools for token communities to coordinate growth and access stable liquidity.
 
 ## Who is IMF for?
 
@@ -37,16 +40,16 @@ We unlock credit for the long tail. Not just blue chips. No governance theatre. 
 
 ## What happens if my token crashes?
 
-If your collateral value drops below safe levels, a **partial liquidation** may occur to protect lenders. You don’t lose everything, just the portion needed to keep the system solvent. The system is designed to **minimise risk**, not punish activity.
+If your collateral value drops below safe levels, a **liquidation** may occur to protect lenders. You don’t lose everything, just what's needed to repay your loan and keep the system solvent. The system is designed to **minimise risk**, not punish activity.
 
 ## How is IMF secured?
 
 Every part of IMF is built on **trustless, battle-tested infrastructure**:
 
 - **Pool** uses [Uniswap v3](https://docs.uniswap.org/contracts/v3/overview)  
-- **Borrow** and **Lend** use [Morpho Blue](https://morpho.org)  
+- **Borrow** and **Lend** use [Morpho](https://morpho.org)  
 - **USDS** is issued by [Sky](https://sky.money), creators of DAI  
-- IMF’s own contracts have undergone **extensive audits** (*insert links to published audits here*)
+- IMF’s own contracts have undergone **extensive audits** and we have an ongoing [bug bounty](https://hashlock.com/bug-bounty/imf) 
 
 ## Can I withdraw my USDS after lending?
 
@@ -54,7 +57,7 @@ Yes, as long as there is available liquidity. Lending markets are pooled and dyn
 
 ## What tokens are supported?
 
-Any token can start by launching an **IMF Pool**. To unlock **Borrow** and **Lend**, the token must meet safety requirements, such as deep onchain liquidity and a reliable price oracle, to ensure markets remain healthy.
+You can view what tokens we support by visiting [our app](https://app.imf.bz). Tokens must meet strict [listing criteria](http://127.0.0.1:4000/docs/governance.html#listing-criteria), such as deep onchain liquidity and a reliable price oracle, to ensure markets remain healthy.
 
 ## Where does protocol revenue come from?
 
@@ -62,7 +65,7 @@ IMF earns a **6.9% performance fee** on interest paid by borrowers. That revenue
 
 ## What is $IMF and what does it do?
 
-$IMF is the protocol’s **ownership token**. It doesn’t govern or distribute rewards. It represents **economic control,** whoever holds 51% of the supply controls the protocol, enabled by the [Salutary](https://salutary.io) acquisition standard.
+$IMF is the protocol’s **token of power and influence.** It represents **economic control,** enabled by the [Salutary](https://salutary.io) standard and the Morpho framework. Check out [tokenomics](/docs/tokenomics) and [governance](/docs/governance) pages for full details.
 
 ## Is there a roadmap?
 

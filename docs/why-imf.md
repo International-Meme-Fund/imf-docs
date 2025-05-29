@@ -1,12 +1,15 @@
 ---
-title: Opportunity
-nav_order: 2
+title: Why IMF?
+nav_order: 6
 ---
 
-# Most tokens die.
+# Why IMF? Most tokens die.
 
-Some die quietly. Others explode first, then fade into obscurity. 
+Some slow rug. Others moon and vanish. Almost all end the same way.
 {: .fs-6 .fw-300 }
+
+[Follow us on x](https://x.com/intlmemefund){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
+[Tutorials →](/docs/tutorials/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -20,8 +23,10 @@ This is the meta:
 
 - Protocols raise with no plan for token demand  
 - DAOs give grants with no strings attached  
+- Builders cash out  
 - Farmers farm and dump  
 - Buyers become bagholders  
+- Tokens get utility after the chart dies  
 - Narratives die  
 - Communities fragment
 
@@ -35,10 +40,12 @@ Grants aren't accountable. Selling is extractive. **Credit has skin in the game.
 
 IMF introduces **Community Coordinated Credit:** an onchain system where holders **borrow against their token instead of selling it**. A system where credit powers ideas, and repayment incentives tie success back to the token.
 
+Instead of selling $MOG to fund a campaign, a builder borrows USDS, builds, then repays from the upside.
+
 With IMF:
 
 - Borrowers post token collateral to access [USDS](https://sky.money){: target="_blank"}  
-- That USDS funds builders, memes and market activity, without dumping  
+- That USDS funds builders, memes, and market activity — without dumping  
 - Lenders earn yield from that usage  
 - The token gains liquidity, attention, and belief  
 
@@ -46,7 +53,9 @@ This isn’t leverage for whales. It’s credit for communities. It’s a flywhe
 
 ## PvP vs PvE
 
-**Memecoins** taught us something DeFi forgot: crypto isn't just player versus player, it's also player versus environment. Coordinated communities win.
+**Memecoins** taught us something DeFi forgot: crypto isn't just player versus player. It's also player versus environment.
+
+Coordinated communities win.
 
 Price movement captures attention. Attention drives growth. Growth drives conviction. Conviction creates a floor.
 
@@ -54,8 +63,9 @@ Tokens that coordinate around price survive.
 
 IMF gives communities the tools to do that:
 
-- **IMF Pool** creates liquidity and fee income  
-- **Borrow** lets them access USDS without selling  
-- **Lend** creates passive income and ecosystem alignment  
+- **[Borrow](/docs/functionality/borrow){: target="_blank"}** lets them access USDS without selling  
+- **[Lend](/docs/functionality/lend){: target="_blank"}** creates passive income and ecosystem alignment  
+- **[Pool](/docs/functionality/pool){: target="_blank"}** creates liquidity and fee income  
 
-**Price action is no longer an accident. It’s coordinated.** With IMF, PvE becomes possible again.
+**Price action is no longer an accident. It’s orchestrated.**  
+PvE isn’t a dream. It’s cartel-coded.

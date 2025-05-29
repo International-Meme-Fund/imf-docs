@@ -1,34 +1,48 @@
 ---
-title: Welcome
+title: Introduction
 layout: home
 nav_order: 1
-description: "IMF Credit is a credit cartel: a crypto-native credit union that unleashes the power of credit using any token as collateral."
+description: "IMF is a DeFi protocol lending stablecoins against any crypto asset—we're crypto's first credit cartel."
 permalink: /
 ---
 
-# Credit is a Weapon
+# International Meme Fund
 {: .fs-9 }
 
-IMF Credit is a credit cartel: a crypto-native credit union that unleashes the power of credit using any token as collateral.
+IMF powers community coordinated credit markets
 {: .fs-6 .fw-300 }
 
-[Get started](https://app.imf.bz){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
-[Learn more](https://imf.bz){: .btn .fs-5 .mb-4 .mb-md-0 target="_blank" }
+[Launch app](https://app.imf.bz){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
+[Functionality →](/docs/functionality/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-In crypto, the default action is to sell. Need liquidity? Sell. Need to fund your idea? Sell. But selling kills momentum. It fractures communities. It bleeds value.
+## Crypto’s first credit cartel
 
-**IMF replaces selling with borrowing.** Instead of dumping tokens, holders and communities can unlock stable liquidity while staying long.
+IMF is a DeFi protocol lending stablecoins against any crypto asset.[^1]  
 
-It’s not a grant program. It’s not a yield farm. It’s **Community Coordinated Credit:** an onchain system that turns belief into capital and capital into attention.
+We unlock credit for the assets most protocols won’t touch. We bank the unbankable.
 
-With IMF:
+But IMF isn’t just infrastructure. It’s how communities take control.
 
-- Token holders **borrow instead of sell**
-- Lenders **earn yield** on stablecoin deposits
-- Communities **coordinate price action** with skin in the game
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe 
+    src="https://www.youtube-nocookie.com/embed/4mWLAQu9mBM?si=ecrcyEvD9h_Ll0WD&amp;controls=0" 
+    title="YouTube video player"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    referrerpolicy="strict-origin-when-cross-origin">
+  </iframe>
+</div>
 
-Built on [Uniswap](https://uniswap.org){: target="_blank"}, [Morpho](https://morpho.org){: target="_blank"}, and [USDS](https://sky.money){: target="_blank"}, IMF is permissionless, immutable, and battle-tested from day one.
+Built on ruthless ambition, community collusion, and cartel-coded coordination. Secured by battle-tested primitives like [Morpho](https://docs.morpho.org){: target="_blank"}, [Uniswap](https://docs.uniswap.org){: target="_blank"}, and [USDS](https://developers.sky.money){: target="_blank"} by Sky (formerly DAI by MakerDAO).
 
-**Credit is a weapon. IMF helps you wield it.**
+Coordination through credit. Collateral backed by conviction. Belief becomes buying power. Most protocols have a DAO. We have a chain of command.
+
+Credit where credit is due. Welcome to the cartel.
+
+---
+
+[^1]: Subject to [listing criteria](/docs/governance.html#listing-criteria).

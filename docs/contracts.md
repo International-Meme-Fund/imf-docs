@@ -1,12 +1,15 @@
 ---
 title: Contracts
-nav_order: 7
+nav_order: 5
 ---
 
 # Contracts
 
 Built for Ethereum mainnet and L2 ecosystems. 
 {: .fs-6 .fw-300 }
+
+[Build with us](https://imf.bz){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
+[Why IMF? →](/docs/why-imf.html){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -27,13 +30,13 @@ Lend
 
 - USDS: `0xdC035D45d973E3EC169d2276DDab16f1e407384F`
 
-### IMF Token
+### IMF poken
 
 - Ethereum mainnet: `0x05BE1d4c307C19450A6Fd7cE7307cE72a3829A60`
 - Base L2 (bridge): `0x5C5B1DE218f86f00Fa547ac4f70DA2C39BB8A039`
 - Solana (bridge): `GgtzR8GGmK8iMHtV3nU6S9RaqWvDy7wpZECzMUXXkDT8`
 
-## V2 Protocol 
+## V2 protocol 
 
 Deployed
 {: .label .label-green }
@@ -45,7 +48,7 @@ Deployed
 - PEPE Oracle: `0xad44b8257fb730e7344bcbe2908679324bd4dcf0`
 - Pump: `0x2c17b87180ea16EaB0c67920F876AcE502d4316A` 
 
-## V1 Protocol 
+## V1 protocol 
 
 Deprecated
 {: .label .label-red }
@@ -59,7 +62,7 @@ Deprecated
 - PEPE/MONEY Oracle: `0xB97b916436E4a3B0aEA6c6be2419c636D368035D`
 - MONEY/USD Oracle: `0x66099a17C21a8dF6d949A704F484d544B81fdE1C`
 
-### Contract Audits (V1)
+## Contract audits
 
-- Hashlock: [@Hashlock_](https://x.com/Hashlock_)
-- Bug Bounty: [https://hashlock.com.au/bug-bounty/imf](https://hashlock.com/bug-bounty/imf)
+- Hashlock: [@Hashlock_](https://x.com/Hashlock_){: target="_blank"} 
+- Bug Bounty: [https://hashlock.com.au/bug-bounty/imf](https://hashlock.com/bug-bounty/imf){: target="_blank"} 

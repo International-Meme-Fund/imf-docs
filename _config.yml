@@ -1,13 +1,12 @@
 title: IMF
 
 logo: "/assets/images/logo.png"
-description: IMF Credit is a credit cartel, a crypto-native credit union that unleashes the power of credit using any token as collateral.
+description: IMF is a DeFi protocol lending stablecoins against any crypto asset—we're crypto's first credit cartel.
 url: "https://docs.imf.bz"
 
 theme: just-the-docs
 color_scheme: codered # Color scheme supports "light" (default) and "dark"
 
-url: 
 aux_links:
   IMF on GitHub: https://github.com/International-Meme-Fund/imf-docs
 aux_links_new_tab: true
@@ -20,11 +19,8 @@ defaults:
       layout: "default"
 
 nav_external_links:
-  - title: Price impact calculator
-    url: https://calc.imf.bz
-    opens_in_new_tab: true
-  - title: App v2.0.0
-    url: https://app.imf.bz
+  - title: Stats
+    url: https://data.imf.bz/
     opens_in_new_tab: true
     
 back_to_top: true
