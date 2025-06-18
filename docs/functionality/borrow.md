@@ -16,7 +16,18 @@ Borrow USDS stablecoins against your collateralized tokens
 
 **For holders,** until now, the game was simple: hold or sell. Now there's a third move: borrow. Use your bags as collateral to unlock stablecoins – no selling, no cash outlay. Your bags stay yours. You just reload and rebuy. Your idle bags are now working for you, meaning you get to stay in the game.
 
-![](/assets/images/borrow.png)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe 
+    src="https://www.youtube-nocookie.com/embed/9rfCfP5frrA?si=RwjHb85pJwVLkNKG&amp;controls=0" 
+    title="YouTube video player"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    referrerpolicy="strict-origin-when-cross-origin">
+  </iframe>
+</div>
+
 
 By depositing a token as collateral, users can borrow [USDS](https://sky.money){: target="_blank"} directly from an **isolated onchain market**. Secured by [Morpho](https://morpho.org){: target="_blank"}, everything is immutable and non-custodial.
 

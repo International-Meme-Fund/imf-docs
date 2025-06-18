@@ -9,7 +9,7 @@ Some slow rug. Others moon and vanish. Almost all end the same way.
 {: .fs-6 .fw-300 }
 
 [Follow us on x](https://x.com/intlmemefund){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
-[Tutorials →](/docs/tutorials/){: .btn .fs-5 .mb-4 .mb-md-0 }
+[FAQ →](/docs/faq/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
