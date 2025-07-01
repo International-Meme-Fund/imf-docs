@@ -57,7 +57,7 @@ Yes, as long as there is available liquidity. Lending markets are pooled and dyn
 
 ## What tokens are supported?
 
-You can view what tokens we support by visiting [our app](https://app.imf.bz). Tokens must meet strict [listing criteria](http://127.0.0.1:4000/docs/governance.html#listing-criteria), such as deep onchain liquidity and a reliable price oracle, to ensure markets remain healthy.
+You can view what tokens we support by visiting [our app](https://app.imf.bz). Tokens must meet strict [listing criteria](/docs/governance.html#listing-criteria), such as deep onchain liquidity and a reliable price oracle, to ensure markets remain healthy.
 
 ## Where does protocol revenue come from?
 
