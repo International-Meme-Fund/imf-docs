@@ -1,7 +1,7 @@
 ---
 title: Borrow
 parent: Functionality
-nav_order: 1
+nav_order: 2
 ---
 
 # Borrow
@@ -10,7 +10,7 @@ Borrow USDS stablecoins against your collateralized tokens
 {: .fs-6 .fw-300 }
 
 [Borrow now](https://app.imf.bz/borrow){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
-[Lend →](/docs/functionality/lend.html){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Accelerate →](/docs/functionality/accelerate.html){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 

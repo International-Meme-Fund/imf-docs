@@ -8,7 +8,7 @@ nav_order: 3
 There is no DAO. Only the cartel.
 {: .fs-6 .fw-300 }
 
-[Command now](https://snapshot.box/#/s:creditcartel.eth/proposals?state=active){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
+[Govern now](https://snapshot.box/#/s:creditcartel.eth/proposals?state=active){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
 [Tokenomics →](/docs/tokenomics.html){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
@@ -21,7 +21,7 @@ Just roles, rules, and onchain power.
 
 ## Cartel structure
 
-Each role in the IMF Cartel maps directly to a core permission in the [Morpho](https://docs.morpho.org){: target="_blank"} framework. Here’s how our world of Bosses, Fixers, Runners, and Plugs aligns with Morpho’s protocol architecture:
+Each role in the IMF Cartel maps directly to a core permission in the [Morpho](https://docs.morpho.org){: target="_blank"} framework. Here’s how our world of Boss(es), Fixers, Runners, and Plugs align with Morpho’s protocol architecture:
 
 ### **Boss** → [Owner](https://docs.morpho.org/curation/concepts/roles/#owner){: target="_blank"}
 
@@ -33,7 +33,7 @@ Black boilersuit. Final authority.
 
 ### **Fixers** → [Curator](https://docs.morpho.org/curation/concepts/roles/#curator){: target="_blank"}
 
-$IMF tacticians. Turf managers.
+ White lab coats. Turf tacticians.
 
 - Add or remove markets  
 - Adjust supply caps  
@@ -41,15 +41,15 @@ $IMF tacticians. Turf managers.
 
 ### **Runners** → [Allocator](https://docs.morpho.org/curation/concepts/roles/#allocator){: target="_blank"}
 
-Red boilersuit operatives. Liquidity logistics.
+Red boilersuits. Liquidity logistics.
 
 - Deploy USDS across markets  
 - Manage capital allocation  
-- Keep the cartel efficient
+- Exercise $IMF as power
 
 ### **Agents** → [Guardian](https://docs.morpho.org/curation/concepts/roles/#guardian){: target="_blank"}
 
-Embedded memecoin delegates. Protocol protectors.
+Embedded delegates. Protocol protectors.
 
 - Defend turf  
 - Prevent unwanted changes  

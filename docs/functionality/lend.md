@@ -1,7 +1,7 @@
 ---
 title: Lend
 parent: Functionality
-nav_order: 2
+nav_order: 1
 ---
 
 # Lend
@@ -10,7 +10,7 @@ Lend your USDS to IMF and earn yield from borrowers
 {: .fs-6 .fw-300 }
 
 [Lend now](https://app.imf.bz/lend){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
-[Pool →](/docs/functionality/pool.html){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Borrow →](/docs/functionality/borrow.html){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 

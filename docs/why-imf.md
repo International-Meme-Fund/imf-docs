@@ -15,6 +15,19 @@ Some slow rug. Others moon and vanish. Almost all end the same way.
 
 But almost all follow the same trajectory: initial hype, short-term liquidity, long-term decay.
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe 
+    src="https://www.youtube.com/embed/71W1LQyDRec?
+    si=_jEkbSPZbsWlLl13&amp;controls=0" 
+    title="YouTube video player"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    referrerpolicy="strict-origin-when-cross-origin">
+  </iframe>
+</div>
+
 ## Why?
 
 Because crypto has a **coordination problem**. Value creation is disconnected from value capture. Builders receive grants or tokens upfront. Communities are given no real tools. Most tokens are sold. Not used.
@@ -63,9 +76,11 @@ Tokens that coordinate around price survive.
 
 IMF gives communities the tools to do that:
 
-- **[Borrow](/docs/functionality/borrow){: target="_blank"}** lets them access USDS without selling  
 - **[Lend](/docs/functionality/lend){: target="_blank"}** creates passive income and ecosystem alignment  
-- **[Pool](/docs/functionality/pool){: target="_blank"}** creates liquidity and fee income  
+- **[Borrow](/docs/functionality/borrow){: target="_blank"}** lets them access USDS without selling  
+- **[Accelerate](/docs/functionality/accelerate){: target="_blank"}** affords them 50% more exposure 
+- **[Amplify](/docs/functionality/amplify){: target="_blank"}** creates liquidity and fee income  
+- **[Allocate](/docs/functionality/allocate){: target="_blank"}** directs USDS liquidity flows
 
 **Price action is no longer an accident. It’s orchestrated.**  
 PvE isn’t a dream. It’s cartel-coded.

@@ -15,7 +15,7 @@ Frequently Asked Questions
 
 ## What is IMF?
 
-**IMF is a credit protocol** that lets anyone borrow against their tokens without selling. It combines liquidity provisioning (**Pool**), stablecoin borrowing (**Borrow**), and stablecoin lending (**Lend**). All built on [Uniswap](https://uniswap.org), [Morpho](https://morpho.org), and [USDS](https://sky.money).
+**IMF is a credit protocol** that lets anyone borrow against their tokens without selling. It combines liquidity provisioning (**Amplify**), stablecoin borrowing (**Borrow**), and stablecoin lending (**Lend**). All built on [Uniswap](https://uniswap.org), [Morpho](https://morpho.org), and [USDS](https://sky.money).
 
 ## What does IMF stand for?
 
@@ -46,7 +46,7 @@ If your collateral value drops below safe levels, a **liquidation** may occur to
 
 Every part of IMF is built on **trustless, battle-tested infrastructure**:
 
-- **Pool** uses [Uniswap v3](https://docs.uniswap.org/contracts/v3/overview)  
+- **Amplify** uses [Uniswap v3](https://docs.uniswap.org/contracts/v3/overview)  
 - **Borrow** and **Lend** use [Morpho](https://morpho.org)  
 - **USDS** is issued by [Sky](https://sky.money), creators of DAI  
 - IMF’s own contracts have undergone **extensive audits** and we have an ongoing [bug bounty](https://hashlock.com/bug-bounty/imf) 

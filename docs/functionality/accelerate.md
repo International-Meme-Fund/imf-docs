@@ -1,7 +1,7 @@
 ---
 title: Accelerate
 parent: Functionality
-nav_order: 4
+nav_order: 3
 ---
 
 # Accelerate
@@ -10,7 +10,7 @@ Long your token 150% at 33% LTV in a single button
 {: .fs-6 .fw-300 }
 
 [Accelerate now](https://app.imf.bz/accelerate){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
-[Governance →](/docs/governance.html){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Amplify →](/docs/functionality/amplify.html){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 

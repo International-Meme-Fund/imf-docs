@@ -17,6 +17,19 @@ $IMF is the cartel's token of power and influence
 
 Economic. Executable. Influence you can wield as a weapon. 
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe 
+    src="https://www.youtube.com/embed/aX0wgApjKNQ?
+    si=L8r90UysnyQNVLMd&amp;controls=0" 
+    title="YouTube video player"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    referrerpolicy="strict-origin-when-cross-origin">
+  </iframe>
+</div>
+
 ## Ownership mechanics
 
 - Protocol earns 6.9% of interest paid by borrowers
@@ -31,7 +44,7 @@ Ownership is onchain and operational. If you hold the majority, you *are* the Ca
 - **Aligned with Usage** – More borrowing = more revenue = stronger cartel = more lending 
 - **Credible Collateral** – $IMF isn’t just influence. We’re underwriters of the underworld.
 
-If you want your token listed, you don’t write a proposal. You [buy $IMF](https://dexscreener.com/ethereum/0x59d813c1d0266278e2f5f146c0e222a6cfea83df){: target="_blank"}, hold it, signal, and raid the vault. This isn’t just corruption. It’s coordinated corruption.
+If you want your token listed, you don’t write a proposal. You [buy $IMF](https://dexscreener.com/ethereum/0x59d813c1d0266278e2f5f146c0e222a6cfea83df){: target="_blank"}, post it as collateral, signal allegiance, and raid the vault. This isn’t just corruption. It’s coordinated corruption.
 
 ## Token supply breakdown
 
