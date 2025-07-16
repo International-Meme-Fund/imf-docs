@@ -57,7 +57,7 @@ Embedded delegates. Protocol protectors.
 
 *These mappings ground our cartel-coded hierarchy in enforceable onchain logic.*
 
-*Powered by [Morpho](https://docs.morpho.org/overview/){: target="_blank"} and the [Salutary standard](https://salutary.io){: target="_blank"}.*
+*Powered by [Morpho](https://docs.morpho.org){: target="_blank"} and the [Salutary standard](https://salutary.io){: target="_blank"}.*
 
 *No soft power. Just the hard kind.*
 

@@ -24,11 +24,11 @@ Secured by [Morpho](https://morpho.org){: target="_blank"}, with all risk fully 
 
 ## How it works
 
-Each IMF market is deployed using Morpho’s [Multi-Market Factory](https://docs.morpho.org/overview/concepts/vault/){: target="_blank"}, with its own parameters, oracle, and risk model. 
+Each IMF market is deployed using Morpho’s [Multi-Market Factory](https://docs.morpho.org/learn/concepts/vault/){: target="_blank"}, with its own parameters, oracle, and risk model. 
 
 - Isolated markets prevent cross-asset contagion  
 - Immutable contracts enforce predictable logic  
-- [Dynamic interest rates](https://docs.morpho.org/overview/concepts/irm){: target="_blank"} adapt to utilisation  
+- [Dynamic interest rates](https://docs.morpho.org/learn/concepts/irm){: target="_blank"} adapt to utilisation  
 - Battle-tested infra securing billions
 
 **Utilisation drives rates**, and the system is [transparent by design](https://data.imf.bz){: target="_blank"} .

@@ -16,7 +16,7 @@ Community coordinated credit markets
 
 IMF works by coordinating community credit markets:
 
-- **Lend** - Where lenders of USDS earn yield through [Morpho](https://docs.morpho.org/overview/){: target="_blank"} from borrowers
+- **Lend** - Where lenders of USDS earn yield through [Morpho](https://docs.morpho.org){: target="_blank"} from borrowers
 - **Borrow** - Where borrowers are issued [USDS](https://developers.sky.money/core-protocol/usds/){: target="_blank"} loans against their collateral  
 - **Accelerate** - Where borrowers 150% long at 33% LTV in a single button
 - **Amplify** - Where protocolized [Uniswap](https://docs.uniswap.org/contracts/v3/overview){: target="_blank"} LPs auto-DCA into USDS yield 
