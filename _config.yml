@@ -1,28 +1,14 @@
-title: IMF
-
 logo: "/assets/images/logo.png"
-description: IMF is a DeFi protocol lending stablecoins against any crypto asset—we're crypto's first credit cartel.
+description: 
 url: "https://docs.imf.bz"
 
 theme: just-the-docs
 color_scheme: codered # Color scheme supports "light" (default) and "dark"
 
-aux_links:
-  IMF on GitHub: https://github.com/International-Meme-Fund/imf-docs
-aux_links_new_tab: true
+nav_enabled: false
+search_enabled: false
+aux_links: {}
 
-defaults:
-  - scope:
-      path: "docs" # an empty string here means all files in the project
-      type: "pages"
-    values:
-      layout: "default"
-
-nav_external_links:
-  - title: Stats
-    url: https://data.imf.bz/
-    opens_in_new_tab: true
-    
 back_to_top: true
 back_to_top_text: "Back to top"
 
