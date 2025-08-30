@@ -156,7 +156,7 @@ Amplify turns idle tokens into productive assets without "selling." Deposit a si
 
 ### Lend
 
-Deposit USDS into the IMF vault and earn real yield from borrowers. Vault is built on [Morpho](https://docs.morpho.org/learn/concepts/vault/) with isolated markets per token.
+Deposit USDS into the IMF vault and earn real yield from borrowers. Vault is built on [Morpho](https://docs.morpho.org/learn/concepts/vault/){: target="_blank" } with isolated markets per token.
 
 **Details:**
 
@@ -193,7 +193,7 @@ IMF earns revenue in multiple ways:
 
 ## $IMF Token
 
-$IMF is not a governance token. It’s the first **legally enforceable on-chain takeover asset**, governed by the [Salutary Standard](https://www.salutary.io/).
+$IMF is not a governance token. It’s the first **legally enforceable on-chain takeover asset**, governed by the [Salutary Standard](https://www.salutary.io/){: target="_blank" }.
 
 - **Control = Ownership**
 - No voting. No proposals. No governance theater.
@@ -222,7 +222,7 @@ $IMF is not a governance token. It’s the first **legally enforceable on-chain 
  | Liquidity | 10.25% | 3,382,004 | Various liquidity positions deployed to AMMs |
  | Borrowers | 10.00% | 3,300,000 | Rewards for depositors to bootstrap USDS borrows |
  | Airdrops | 10.00% | 3,300,000 | Community contribution retroactive rewards |
- | [Team vesting](https://etherscan.io/token/0x05BE1d4c307C19450A6Fd7cE7307cE72a3829A60?a=0x2cde9919e81b20b4b33dd562a48a84b54c48f00c)  | 8.84% | 2,917,996 | Vesting plans managed via Hedgey finance |
+ | [Team vesting](https://etherscan.io/token/0x05BE1d4c307C19450A6Fd7cE7307cE72a3829A60?a=0x2cde9919e81b20b4b33dd562a48a84b54c48f00c){: target="_blank" }  | 8.84% | 2,917,996 | Vesting plans managed via Hedgey finance |
  | ***TOTAL*** | ***100%*** | ***33,000,000*** | ***Maximum total supply (non-mintable)*** |
 
 ## Why IMF?
@@ -280,9 +280,9 @@ IMF is live, liquid, and lending. The vault is open. The token is trading. The p
 
 Whether you’re looking to borrow, accelerate, amplify, lend, or accumulate ownership of the machine itself, the system is ready.
 
-- [Connect with IMF](https://imf.bz)
-- [Launch the app](https://app.imf.bz)
-- [Buy $IMF](https://dexscreener.com/ethereum/0x59d813c1d0266278e2f5f146c0e222a6cfea83df)
+- [Connect with us](https://imf.bz){: target="_blank" }
+- [Launch the app](https://app.imf.bz){: target="_blank" }
+- [Buy $IMF](https://dexscreener.com/ethereum/0x59d813c1d0266278e2f5f146c0e222a6cfea83df){: target="_blank" }
 
 Credit coordination for the chaos era.  
 Let’s get to work.
@@ -341,5 +341,5 @@ Let’s get to work.
 
 ### Security
 
-- **Audit by Hashlock** ([@Hashlock_](https://x.com/Hashlock_))
-- **Bug Bounty**: Hosted via Hashlock [bounty program](https://hashlock.com/bug-bounty/imf)
+- **Audit by Hashlock** ([@Hashlock_](https://x.com/Hashlock_){: target="_blank" })
+- **Bug Bounty**: Hosted via Hashlock [bounty program](https://hashlock.com/bug-bounty/imf){: target="_blank" }
