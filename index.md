@@ -290,92 +290,114 @@ Let’s get to work.
 ## IMF FAQ
 
 ### Borrowing & Lending
-**How are APR & APY calculated?**
-  Morpho’s interest rate model targets 90% utilization.
-    >90% utilization → APR rises
-    <90% utilization → APR falls
-**How does the utilization rate go down?**
-  When borrowers repay or when more USDS liquidity enters the market, the utilization rate goes down.
-**Does borrow APR rise indefinitely if no one repays?**
-  Yes, until utilization drops below 90%.
-**How does USDS get allocated to a borrow market?**
-  USDS allocation is based on the liquidity of each token. More liquidity means more potential allocation to a market.
+#### How are APR & APY calculated?
+  Morpho’s interest rate model targets 90% utilization.  
+- \>90% utilization → APR rises  
+- <90% utilization → APR falls  
+
+#### How does the utilization rate go down?
+  When borrowers repay or when more USDS liquidity enters the market, the utilization rate goes down.  
+
+#### Does borrow APR rise indefinitely if no one repays?
+  Yes, until utilization drops below 90%.  
+
+#### How does USDS get allocated to a borrow market?
+  USDS allocation is based on the liquidity of each token. More liquidity means more potential allocation to a market.  
 
 ### Liquidations
-**What’s the health factor?**
-  Your health factor shows distance from liquidation (which happens at 77% LTV). When it reaches 1.0, liquidation occurs.
-**Can I monitor market health/potential liquidations?**
-  Yes. You can find all the information at the Stats Dashboard.
-**What happens after liquidation?**
-  Collateral is seized by the liquidator.
-**Can I repay loans with collateral directly?**
-  No. You must withdraw and sell your collateral for USDS to repay.
+#### What’s the health factor?
+  Your health factor shows distance from liquidation (which happens at 77% LTV). When it reaches 1.0, liquidation occurs.  
+
+#### Can I monitor market health/potential liquidations?
+  Yes. You can find all the information at the Stats Dashboard.  
+
+#### What happens after liquidation?
+  Collateral is seized by the liquidator.  
+
+#### Can I repay loans with collateral directly?
+  No. You must withdraw and sell your collateral for USDS to repay.  
 
 ### Collateral & Listings
-**How do new tokens get listed?**
-  Tokens with sufficient liquidity and demand for a borrow market will be listed by the IMF.
-**Can lenders get rugged?**
-  IMF's risk curator allocates borrow limits to prevent bad debt from accruing in the system. These measures protect lenders.
-**Will more Merkl rewards be distributed?**
-  Rewards were for bootstrapping growth and now that the business has matured, those rewards are no longer required.
+#### How do new tokens get listed?
+  Tokens with sufficient liquidity and demand for a borrow market will be listed by the IMF.  
+
+#### Can lenders get rugged?
+  IMF's risk curator allocates borrow limits to prevent bad debt from accruing in the system. These measures protect lenders.  
+
+#### Will more Merkl rewards be distributed?
+  Rewards were for bootstrapping growth and now that the business has matured, those rewards are no longer required.  
 
 ### Salutary / BFW
-**What is Salutary/BFW?**
-  A new token standard that makes $IMF an enforceable business takeover token under Singapore law & New York Convention.
-**What does this mean for minority holders?**
-  Even without a 33% controlling stake, minority holders carry weight. Their ability to coordinate, apply pressure, and influence outcomes keeps management and decision-making aligned with tokenholder interests. This ensures that value is not captured only by the largest     holders but maintained across the market.
-  Salutary is what allows institutions to participate. Institutional participation increases liquidity, demand, and credibility. Insitutional involvement bolsters the strength of the $IMF ecosystem.
-**What happens if someone accumulates 33%?**
-  An M&A (mergers and acquisitions) process begins. This process is backed by international business laws. The business will transfer control to the acquirers.
-**What stops a bad actor from accumulating and rugging the treasury?**
-  Salutary also acts as an enforcer protecting minority holders. If someone wants to liquidate the treasury, they would have to put the amount of stables equal to everyone else’s token’s value into a vault. 
-  Anyone who was a holder can now come and claim their tokens value in stables.
+#### What is Salutary/BFW?
+  A new token standard that makes $IMF an enforceable business takeover token under Singapore law & New York Convention.  
+
+#### What does this mean for minority holders?
+  Even without a 33% controlling stake, minority holders carry weight. Their ability to coordinate, apply pressure, and influence outcomes keeps management and decision-making aligned with tokenholder interests. This ensures that value is not captured only by the largest holders but maintained across the market.  
+  Salutary is what allows institutions to participate. Institutional participation increases liquidity, demand, and credibility. Insitutional involvement bolsters the strength of the $IMF ecosystem.  
+
+#### What happens if someone accumulates 33%?
+  An M&A (mergers and acquisitions) process begins. This process is backed by international business laws. The business will transfer control to the acquirers.  
+
+#### What stops a bad actor from accumulating and rugging the treasury?
+  Salutary also acts as an enforcer protecting minority holders. If someone wants to liquidate the treasury, they would have to put the amount of stables equal to everyone else’s token’s value into a vault.  
+  Anyone who was a holder can now come and claim their tokens value in stables.  
 
 ### Fees
-**What is the performance fee?**
-  10% of borrower-paid interest.
-**Who pays the performance fee?**
-  Lenders (borrowers do not).
-**What is the fee used for?**
-  To fund protocol growth and buybacks.
+#### What is the performance fee?
+  10% of borrower-paid interest.  
+
+#### Who pays the performance fee?
+  Lenders (borrowers do not).  
+
+#### What is the fee used for?
+  To fund protocol growth and buybacks.  
 
 ### Features
-**What is Accelerate?**
-  Accelerate bundles the entire IMF lending protocol into one button. It supplies the collateral of choice, borrows at 50% LTV, buys more of your token and redeposits to reduce your loan's LTV to 33%.
-**If I use accelerate, how much does my collateral have to drop before I get liquidated?**
-  Your token has to drop 57.14% for you to get liquidated using Accelerate.
-**What is Amplify?**
-  Amplify lets you DCA out of your tokens without manually selling. You deposit your tokens as liquidity for buyers. As the token price rises, your tokens are gradually sold for USDS. That USDS is then automatically moved into the lending pool, where it earns yield by being borrowed.
-**What are the risks of Amplify?**
-  The risk of Amplify is capped upside: as the token price goes up, you lose exposure to the token.
-**Does Amplify show up as a 'sell' onchain?**
-  Amplify does not show up as a sell on chain, only as a supply liquidity and remove liquidity.
+#### What is Accelerate?
+  Accelerate bundles the entire IMF lending protocol into one button. It supplies the collateral of choice, borrows at 50% LTV, buys more of your token and redeposits to reduce your loan's LTV to 33%.  
+
+#### If I use accelerate, how much does my collateral have to drop before I get liquidated?
+  Your token has to drop 57.14% for you to get liquidated using Accelerate.  
+
+#### What is Amplify?
+  Amplify lets you DCA out of your tokens without manually selling. You deposit your tokens as liquidity for buyers. As the token price rises, your tokens are gradually sold for USDS. That USDS is then automatically moved into the lending pool, where it earns yield by being borrowed.  
+
+#### What are the risks of Amplify?
+  The risk of Amplify is capped upside: as the token price goes up, you lose exposure to the token.  
+
+#### Does Amplify show up as a 'sell' onchain?
+  Amplify does not show up as a sell on chain, only as a supply liquidity and remove liquidity.  
 
 ### Oracles
-**Where do prices come from?**
-  Our oracle provider is DIA. Dia aggregates both onchain and CEX price feeds like Binance, Coinbase and Uniswap.
-**How often are they updated?**
-  The oracle update based on DIAs MAIR: Moving Average with Interquartile Range Filter every 2 minutes. 
-  Read more about it here: https://www.diadata.org/docs/nexus/reference/pricing-methodologies/mair-moving-average-with-interquartile-range-filter
-**Does the oracle have a timelock?**
-  No, the oracles proxies are behind the IMF multisig and do not have a timelock for safety reasons
+#### Where do prices come from?
+  Our oracle provider is DIA. Dia aggregates both onchain and CEX price feeds like Binance, Coinbase and Uniswap.  
+
+#### How often are they updated?
+  The oracle update based on DIAs MAIR: Moving Average with Interquartile Range Filter every 2 minutes.  
+  Read more about it here: https://www.diadata.org/docs/nexus/reference/pricing-methodologies/mair-moving-average-with-interquartile-range-filter  
+
+#### Does the oracle have a timelock?
+  No, the oracles proxies are behind the IMF multisig and do not have a timelock for safety reasons.  
 
 ### Token Supply
-**What’s the circulating supply?**
-  33M $IMF.
-**Any buybacks?**
-  There are no buy backs for $IMF planned right now. However, there may be buy backs in the future
-**When was IMF launched?**
-  V1: mid-2024
-  V2: May 6, 2025
+#### What’s the circulating supply?
+  33M $IMF.  
+
+#### Any buybacks?
+  There are no buy backs for $IMF planned right now. However, there may be buy backs in the future.  
+
+#### When was IMF launched?
+  V1: mid-2024  
+  V2: May 6, 2025  
 
 ### Voting
-  The voting mechanism was a good experiment and requires fine tuning before being reimplimented.
+#### What about voting?
+  The voting mechanism was a good experiment and requires fine tuning before being reimplimented.  
 
 ### More
-If you still have unanswered questions, ask in our community chat and one of our collaborators will help answer. 
-https://t.me/intlmemefund
-
+#### Where can I ask more questions?
+  If you still have unanswered questions, ask in our community chat and one of our collaborators will help answer.  
+  https://t.me/intlmemefund
 
 
 ## Contracts
