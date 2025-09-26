@@ -189,15 +189,7 @@ IMF earns revenue in multiple ways:
 - **Market Gains:** Treasury goes long on select tokens
 - **ETH Staking:** Treasury accumulates wstETH as collateral to loop borrow/lend spread
 
-**Treasury** will also buyback $IMF to fund reward campaigns and support market making.
-
-## $IMF Token
-
-$IMF is not a governance token. It’s the first **legally enforceable on-chain takeover asset**, governed by the [Salutary Standard](https://www.salutary.io/){: target="_blank" }.
-
-- **Control = Ownership**
-- No voting. No proposals. No governance theater.
-- Whoever owns a threshold amount (eg. 33%) owns IMF.
+**Treasury** may also buyback $IMF to fund reward campaigns and support market making.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
   <iframe 
@@ -211,6 +203,25 @@ $IMF is not a governance token. It’s the first **legally enforceable on-chain 
   </iframe>
 </div>
 
+## $IMF Token
+
+$IMF is not a governance token. It’s the first **legally enforceable on-chain takeover asset**, governed by the [Salutary Standard](https://www.salutary.io/){: target="_blank" }.
+
+- **Control = Ownership**
+- No voting. No proposals. No governance theater.
+- Whoever owns a threshold amount (eg. 33%) owns IMF.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe 
+    src="https://www.youtube.com/embed/EQjoSKxsAio?si=jhUB70JqkRugHvXf&amp;controls=0" 
+    title="YouTube video player"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    referrerpolicy="strict-origin-when-cross-origin">
+  </iframe>
+</div>
 
 ### Tokenomics
 
@@ -249,7 +260,7 @@ Here’s why IMF is worth taking over:
   IMF earns revenue from *real borrowers* paying *real interest*. No inflation gimmicks, no mercenary yield farming. The protocol generates borrower-paid interest, swap fees, and LP yield.
 
 - **Clear path to upside**  
-  Protocol revenue flows to the Treasury. The Treasury buys back $IMF. Supply shrinks while protocol value grows. Owning $IMF today means owning a larger share of a more profitable machine tomorrow.
+  Protocol revenue flows to the Treasury. $IMF buybacks from treasury. Supply shrinks while protocol value grows. Owning $IMF today means owning a larger share of a more profitable machine tomorrow.
 
 - **Underserved market with first-mover advantage**  
   Most tokens, especially memecoins, have zero access to credit. IMF lists them, collateralizes them, and absorbs their volatility. That’s not a bug, it’s the business model. As more tokens go live, and more degens borrow instead of sell, IMF becomes the backbone of the longtail.
