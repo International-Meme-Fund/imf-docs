@@ -31,7 +31,7 @@ International Meme Fund (IMF) offers lending markets for assets ignored by tradi
   </iframe>
 </div>
 
-There is no DAO. There are no proposals. IMF is not governed...it is owned. **$IMF** is a takeover token, held accountable by the Salutary Standard. Whoever holds enough, controls it.
+There is no DAO. There are no proposals. IMF is not governed...it is owned. **$IMF** is a takeover token. Whoever holds enough, controls it.
 
 This is credit coordination for the chaos era.
 
@@ -205,23 +205,11 @@ IMF earns revenue in multiple ways:
 
 ## $IMF Token
 
-$IMF is not a governance token. It’s the first **legally enforceable on-chain takeover asset**, governed by the [Salutary Standard](https://www.salutary.io/){: target="_blank" }.
+$IMF is not a governance token.
 
 - **Control = Ownership**
 - No voting. No proposals. No governance theater.
 - Whoever owns a threshold amount (eg. 33%) owns IMF.
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe 
-    src="https://www.youtube.com/embed/EQjoSKxsAio?si=jhUB70JqkRugHvXf&amp;controls=0" 
-    title="YouTube video player"
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    referrerpolicy="strict-origin-when-cross-origin">
-  </iframe>
-</div>
 
 ### Tokenomics
 
@@ -337,21 +325,6 @@ Let’s get to work.
 
 #### Will more Merkl rewards be distributed?
   Rewards were for bootstrapping growth and now that the business has matured, those rewards are no longer required.  
-
-### Salutary / BFW
-#### What is Salutary/BFW?
-  A new token standard that makes $IMF an enforceable business takeover token under Singapore law & New York Convention.  
-
-#### What does this mean for minority holders?
-  Even without a 33% controlling stake, minority holders carry weight. Their ability to coordinate, apply pressure, and influence outcomes keeps management and decision-making aligned with tokenholder interests. This ensures that value is not captured only by the largest holders but maintained across the market.  
-  Salutary is what allows institutions to participate. Institutional participation increases liquidity, demand, and credibility. Insitutional involvement bolsters the strength of the $IMF ecosystem.  
-
-#### What happens if someone accumulates 33%?
-  An M&A (mergers and acquisitions) process begins. This process is backed by international business laws. The business will transfer control to the acquirers.  
-
-#### What stops a bad actor from accumulating and rugging the treasury?
-  Salutary also acts as an enforcer protecting minority holders. If someone wants to liquidate the treasury, they would have to put the amount of stables equal to everyone else’s token’s value into a vault.  
-  Anyone who was a holder can now come and claim their tokens value in stables.  
 
 ### Fees
 #### What is the performance fee?
